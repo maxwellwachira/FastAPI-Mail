@@ -56,7 +56,7 @@ pip install -r requirements.txt
 create a file and name it as .env. Copy contents of .env.example to .env 
 
 # Acknowledgement
-Special thanks to [Abdulazeez Abdulazeez Adeshina](https://testdriven.io/authors/adeshina/) for the awesome [tutorial](https://testdriven.io/blog/fastapi-jwt-auth/)
+Special thanks to [sabuhish](https://sabuhish.github.io/fastapi-mail/) the author of fastapi-mail module.<br>
 Special thanks to [Sebastián Ramírez aka @tiangolo](https://github.com/tiangolo) the creator of FastAPI 
 
 
