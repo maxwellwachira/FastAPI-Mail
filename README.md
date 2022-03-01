@@ -9,6 +9,10 @@ FastAPI-Mail is a simple lightweight mail system, sending emails and attachments
 This project shows how to send emails both asynchronously and using Background Tasks.
 The email body parameters are provided as the request body. These parameters are then used by the HTML email template 
 <br>
+The image below shows the request body(Right side) and the email received by the recepient (Left side)
+<br>
+<br>
+<br>
 <img src = "./img/mail.png">
 
 # Table of contents
